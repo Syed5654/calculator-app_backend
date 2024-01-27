@@ -11,7 +11,7 @@ npm run dev
 ```
 
 ## Database
-Please set up a MySQL database and create a new database named 'calculator_app'.
+Set up a MySQL database and create a new database.
 
 #### Migrate Database
 
